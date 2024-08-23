@@ -1,0 +1,9 @@
+com.lanss.plugin.impl.oracle.ConfigInfoAggrMapperByOracle
+com.lanss.plugin.impl.oracle.ConfigInfoBetaMapperByOracle
+com.lanss.plugin.impl.oracle.ConfigInfoMapperByOracle
+com.lanss.plugin.impl.oracle.ConfigInfoTagMapperByOracle
+com.lanss.plugin.impl.oracle.ConfigTagsRelationMapperByOracle
+com.lanss.plugin.impl.oracle.HistoryConfigInfoMapperByOracle
+com.lanss.plugin.impl.oracle.TenantInfoMapperByOracle
+com.lanss.plugin.impl.oracle.TenantCapacityMapperByOracle
+com.lanss.plugin.impl.oracle.GroupCapacityMapperByOracle
