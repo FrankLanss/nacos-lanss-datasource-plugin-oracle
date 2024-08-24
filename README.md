@@ -22,7 +22,7 @@ Nacos从2.2.0版本开始,可通过SPI机制注入多数据源实现插件,并�
 ### 2. 自行导入执行oracle脚本
 本项目路径：/nacos-lanss-datasource-plugin-oracle/sql/nacos2-oracle.sql
 <br>
-[点击下载 nacos oracle 11g12c脚本](https://github.com/FrankLanss/nacos-lanss-datasource-plugin-oracle/sql/nacos2-oracle.sql)
+[点击下载 nacos oracle 11g12c脚本](https://github.com/FrankLanss/nacos-lanss-datasource-plugin-oracle/blob/release/sql/nacos2-oracle.sql)
 <br>
 
 ### 3.添加目录
